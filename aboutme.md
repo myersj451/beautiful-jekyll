@@ -3,6 +3,8 @@ layout: page
 title: About me
 subtitle:
 ---
+TL;DR A small-town girl working hard through the twenty-first century.
+
 Jamie Myers is currently a freshman at Allegheny college, and one of the first questions she asks upon meeting someone who is pursing a degree at Allegheny is "Why did you choose to come here?" For Jamie, committing to Allegheny College was a simple transition from one town to another.
 
 Jamie was born and raised in York, Pennsylvania, and as a kid growing up in the early 2000's in a lackluster city, most, if not all, forms of entertainment involved technology. Whether through MS Paint or pinball, Jamie spent her childhood teaching herself how to use a computer and its expansively endless capabilities. Thus, growing up, her childhood dream was to become a computer programmer rather than a firefighter or astronaut. Shifting from the Sega to computer games to the first PlayStation, Xbox, and back to computer games, Jamie was always found playing with any software she could get her hands on. Observing and experiencing firsthand the technological advancements of the twenty-first century inspired her belief that technological development is infinitely expanding, and she pictures herself becoming a part of such a powerful movement.
