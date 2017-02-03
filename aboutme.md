@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle:
 ---
-Jamie Myers
 TL;DR A small-town girl working hard through the twenty-first century.
 
 Jamie Myers is currently a freshman at Allegheny college, and one of the first questions she asks upon meeting someone who is pursing a degree at Allegheny is "Why did you choose to come here?" For Jamie, committing to Allegheny College was a simple transition from one town to another.
