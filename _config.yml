@@ -53,9 +53,9 @@ footer-links-active:
   email: true
   github: true
   snapchat: false
-  instagram: false
+  instagram: true
   spotify: false
-  telephone: true
+  telephone: false
 
 # Select which share links to show in posts
 share-links-active:
