@@ -16,21 +16,18 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
 
 ### Customize your website settings
 
-Edit the `_config.yml` file to change all the settings to reflect your site. To edit the file, click on it and then click on the pencil icon. Any line that begins with a pound sign (`#`) is a comment, and the rest of the lines are actual settings.
+Edit the `_config.yml` file to change all the settings to reflect your site. To edit the file, open the file in atom and edit the content. Make sure to   Any line that begins with a pound sign (`#`) is a comment, and the rest of the lines are actual settings.
 
 After you save your changes to the config file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `http://<yourusername>.github.io`.
 
 Your website is at `http://<yourusername>.github.io` (replace `<yourusername>` with your user name). 
 
-## Add your own content
+### Add your own content
 
 To add pages to your site, you can either write a markdown file (`.md`) or you can write an HTML file directly.
 
-Many personalization settings in `_config.yml`, such as setting your name and site's description, setting your avatar to add a little image in the navigation bar, customizing the links in the menus, customizing what social media links to show in the footer, etc.
-
-
-## Credits 
-As the Beautiful Jekyll template was used, the oringal credits of the template are preserved.
+### Credits 
+As the Beautiful Jekyll template was used, the oringal credits of the template are preserved:
 
 "This template was not made entirely from scratch. I would like to give special thanks to:
 - [Barry Clark](https://github.com/barryclark) and his project [Jekyll Now](https://github.com/barryclark/jekyll-now), from whom I've taken several ideas and code snippets, as well as some documenation tips.
@@ -38,4 +35,3 @@ As the Beautiful Jekyll template was used, the oringal credits of the template a
 
 "I'd also like to thank [Dr. Jekyll's Themes](http://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories."
 
-If you do fork or clone this project to use as a template for your site, I would appreciate if you keep the link in the footer to this project.  I've noticed that several people who forked this repo removed the attribution and I would prefer to get the recognition if you do use this :)
