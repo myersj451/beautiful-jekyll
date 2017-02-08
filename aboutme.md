@@ -1,5 +1,5 @@
 ---
-title: My life So Far
+title: My Life So Far
 
 I was born in Kingston,Jamaica in 1997. I spent most of my younger years in a small home with my mom who worked as a nurse at the hospital. I didn’t only live with my mom but my aunt and my two cousins as well as my grandmother. My father at the time already lived in America with my older brother, however , it got the the point where he wanted my mom and I to live with him. So at the age of 7 I took my first plane ride to the United States of America where my new life would begin.The adjustment process to a new country was a difficult task to do when it came to school, living conditions and having access to different opportunities that I never had while in Jamaica. Opportunities that my parents motivated me to take and to actively seek out.
 
