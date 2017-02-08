@@ -1,11 +1,10 @@
-# Beautiful Jekyll
+# Website of Jamie Myers 
 This repository contains the Markdown and HTML source code for Jamie Myers' website. The webiste utilizes the Beautiful Jekyll template that is mobile-ready, customizable, and easily accesible. 
 
 ## Build a mobile-ready website in simple steps
 
 ### Fork this repository
-
-(Assuming you are on this page and logged into GitHub) Fork this repository by clicking the *Fork* button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
+Fork this repository by clicking the *Fork* button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
 
 Once you have forked the repository, install necessary packages by typing "bundle install -- path ~/.gem" in terminal and proceed after packages have finished installing. 
 
