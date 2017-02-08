@@ -1,5 +1,5 @@
 # Website of Jamie Myers 
-This repository contains the Markdown and HTML source code for Jamie Myers' website. The webiste utilizes the Beautiful Jekyll template that is mobile-ready, customizable, and easily accesible. 
+This repository contains the Markdown and HTML source code for Jamie Myers' website. The webiste utilizes the Beautiful Jekyll template that is mobile-ready, customizable, and easily accessible. 
 
 ## Build a mobile-ready website in simple steps
 
@@ -16,11 +16,9 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
 
 ### Customize your website settings
 
-Edit the `_config.yml` file to change all the settings to reflect your site. To edit the file, open the file in atom and edit the content. Make sure to commit and push all changes to the repository files. 
+Edit the `_config.yml` file to change all the settings to reflect your site. Open the file in atom and edit the content. Make sure to commit and push all changes to the repository files. 
 
-After you save your changes to the config file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `http://<yourusername>.github.io`.
-
-Your website is at `http://<yourusername>.github.io` (replace `<yourusername>` with your user name). 
+After you save your changes to the config file, your website should be ready in a minute or two at `http://<yourusername>.github.io`.
 
 ### Add your own content
 
