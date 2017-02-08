@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+title: My life So Far
+subtitle:A Journey
+I was born in Kingston,Jamaica in 1997. I spent most of my younger years in a small home with my mom who worked as a nurse at the hospital. I didn’t only live with my mom but my aunt and my two cousins as well as my grandmother. My father at the time already lived in America with my older brother, however , it got the the point where he wanted my mom and I to live with him. So at the age of 7 I took my first plane ride to the United States of America where my new life would begin.The adjustment process to a new country was a difficult task to do when it came to school, living conditions and having access to different opportunities that I never had while in Jamaica. Opportunities that my parents motivated me to take and to actively seek out.
 
-My name is Inigo Montoya. I have the following qualities:
+ Coming to a new country was exciting because of the different adventures and opportunities I would have access to. However, adapting to the new environment was difficult due to the fact that the things I was allowed to do before in Jamaica was not possible no more. Through my parents, friends and the many different connections I made through my school and community I was able to help shape a future for me to follow. At a young age I got really attached to technology and got really interested in how they were made and how they functioned. One could say that I was a tech geek throughout my younger years. While it was true that I was extremely interested in technology and later the engineering field I had another side of me that truly enjoyed exploring the liberal arts and learning different things. My interest never stayed in just one field but instead expanded to different fields without hesitation.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ It is that desire to learn and try different fields that honestly and truly forged the path I took when deciding on college as well as what new topic I want to learn about. As a person I knew from a young age that the desire to learn new tricks and skills in life is a motivation and a key influence in my life. Due to the fact that the more I learn the easier it would be to create and or achieve the things I want.
