@@ -1,7 +1,6 @@
 ---
-layout: page
 title: My life So Far
-subtitle:A Journey
+
 I was born in Kingston,Jamaica in 1997. I spent most of my younger years in a small home with my mom who worked as a nurse at the hospital. I didn’t only live with my mom but my aunt and my two cousins as well as my grandmother. My father at the time already lived in America with my older brother, however , it got the the point where he wanted my mom and I to live with him. So at the age of 7 I took my first plane ride to the United States of America where my new life would begin.The adjustment process to a new country was a difficult task to do when it came to school, living conditions and having access to different opportunities that I never had while in Jamaica. Opportunities that my parents motivated me to take and to actively seek out.
 
  Coming to a new country was exciting because of the different adventures and opportunities I would have access to. However, adapting to the new environment was difficult due to the fact that the things I was allowed to do before in Jamaica was not possible no more. Through my parents, friends and the many different connections I made through my school and community I was able to help shape a future for me to follow. At a young age I got really attached to technology and got really interested in how they were made and how they functioned. One could say that I was a tech geek throughout my younger years. While it was true that I was extremely interested in technology and later the engineering field I had another side of me that truly enjoyed exploring the liberal arts and learning different things. My interest never stayed in just one field but instead expanded to different fields without hesitation.
