@@ -16,7 +16,7 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
 
 ### Customize your website settings
 
-Edit the `_config.yml` file to change all the settings to reflect your site. To edit the file, open the file in atom and edit the content. Make sure to   Any line that begins with a pound sign (`#`) is a comment, and the rest of the lines are actual settings.
+Edit the `_config.yml` file to change all the settings to reflect your site. To edit the file, open the file in atom and edit the content. Make sure to commit and push all changes to the repository files. 
 
 After you save your changes to the config file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `http://<yourusername>.github.io`.
 
@@ -35,3 +35,5 @@ As the Beautiful Jekyll template was used, the oringal credits of the template a
 
 "I'd also like to thank [Dr. Jekyll's Themes](http://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories."
 
+### Issues
+If any issues are found throughout the site, please raise an issue. 
