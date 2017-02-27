@@ -2,7 +2,7 @@
 layout: post
 title: Hidden Error with Single Sign in with Google
 subtitle:
-bigimg: /img/20761160344_ed95a84251_h(1).jpg
+bigimg: /img/20761160344_f3e6fb5223_c.jpg
 
 ---
 With the rapid growth of technology and the need for multiple sign-in information, it's important to have a central connection for multiple accounts. This connection will ensure that all of our private information remains secure and protected. Which is why Google's single sign-on function is honestly a helpful thing to have because through the click of a button all of our accounts can be linked together. This eliminates the need for multiple account passwords, as well as eliminating the need to constantly re-entering information for a new sight. However, if something was to go wrong with their system it would throw everyone's normal life into chaos. The reason I say this is because as mentioned previously technology is constantly changing and growing, as such the possibility of someone finding a way to breach the privacy coding created by Google is impossible. For example, the likes of Yahoo and Apple, giant corporations who were once believed to have the strongest defense against hackers,have been hacked in different times throughout history. This forced them to revisit their privacy defenses as well as having to deal with regaining the trust of the people that got hacked into.
@@ -14,4 +14,5 @@ Note this article is not meant to discourage you from using google single sign i
 If I were to guess most people use maybe 1 of 2  groups of passwords throughout their lives. Only to make minor changes to them but still in the range for them to remember. It is advised that you change your password every 6 months to help prevent hacking. However, this won’t protect your accounts if you did use google single sign-in, it's meant to protect other forms of hacking. Also, it may as well do protect your account.
 
 
-<a title="Stop" href="https://flickr.com/photos/pagedooley/20761160344">Stop</a> flickr photo by <a href="https://flickr.com/people/pagedooley">kevin dooley</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
+
+<a title="Stop" href="https://flickr.com/photos/pagedooley/20761160344"><img src="https://farm6.static.flickr.com/5618/20761160344_f3e6fb5223.jpg" /></a><br /><small><a title="Stop" href="https://flickr.com/photos/pagedooley/20761160344">Stop</a> flickr photo by <a href="https://flickr.com/people/pagedooley">kevin dooley</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
