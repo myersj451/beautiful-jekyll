@@ -24,6 +24,7 @@ description: A website of things I am interrested in
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Presentation: "presentaions"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
