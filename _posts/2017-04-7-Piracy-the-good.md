@@ -91,7 +91,9 @@ Tobi: It's not a drug that once you start you'll be addicted. But the reason tha
 
 Mac: Have had fun paying for your college textbooks {laughter}
 
-What I learned from this interview is that piracy is a choice people use to get something that they may or may not have access to. But more importantly, people who do commit piracy are still humans and accept the fact they are doing something that many might find illegal. But yet this lifestyle continues to live on despite society's rapidly increasing disfavor towards it. So before you 
+What I learned from this interview is that piracy is a choice people use to get something that they may or may not have access to. But more importantly, people who do commit piracy are still humans and accept the fact they are doing something that many might find illegal. But yet this lifestyle continues to live on despite society's rapidly increasing disfavor towards it.
+
+So I ask which side of the arguement are you on?Are you someone who support pirtated websites and those who partake in it or are you someone who looks down on them? In the end no matter whichsideyou choose doesn't define who you are but it does define where your support will go in this never ending struggle. 
 
 
 
