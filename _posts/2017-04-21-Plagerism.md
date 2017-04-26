@@ -2,6 +2,7 @@
 layout: post
 title: Plagiarism
 subtitle: Deterioration of the Ethical Value
+image: /img/Split.jpg
 bigimg: /img/Split.jpg
 ---
 
