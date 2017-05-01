@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Plagiarism: The Gray Area between University Expectations and Student Morality"
-image: img/8260317699_da01f6583b_o.jpg 
-bigimg: /img/8260317699_da01f6583b_o.jpg	
+image: /img/11042066023_afe931586f_o.jpg  
+bigimg: /img/11042066023_afe931586f_o.jpg 
 tags: plagiarism
 ---
 *TL;DR: In a first-world society dominated by technology, univerisities are plagued with the increasing rate of plagiarism, and the popular tactic to approach academic fraud as an issue of morality may not be enough to combat it.*
