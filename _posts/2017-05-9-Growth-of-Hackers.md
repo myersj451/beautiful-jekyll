@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Growth of Hackers
-subtitle: Vigilanties We Need?
+subtitle: Vigilantes We Need?
 image: /img/Hacking.jpg
 bigimg: /img/Hacking.jpg
 ---
