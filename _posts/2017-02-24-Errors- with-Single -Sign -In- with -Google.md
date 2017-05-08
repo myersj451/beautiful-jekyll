@@ -2,6 +2,7 @@
 layout: post
 title: Hidden Error with Single Sign in with Google
 subtitle:
+image: /img/20761160344_f3e6fb5223_c.jpg
 bigimg: /img/20761160344_f3e6fb5223_c.jpg
 
 ---

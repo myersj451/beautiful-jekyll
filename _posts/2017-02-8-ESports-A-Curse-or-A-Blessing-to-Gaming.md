@@ -2,6 +2,7 @@
 layout: post
 title: 'ESports:A blessing or A Curse to Gaming?'
 subtitle: A review from the eyes of a gamer
+image: /img/5424139604_a3f02c298a_b.jpg
 bigimg: /img/5424139604_a3f02c298a_b.jpg
 ---
 
