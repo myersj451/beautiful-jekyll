@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title: FS 102 Reflection: Analyzing the Process of Web Writing
 bigimg: /img/6690584973_b0af50778e_b.jpg
 image: /img/6690584973_b0af50778e_b.jpg
-tags: GitHub
 ---
 
 *The beneﬁts and drawbacks associated with using software technology to support eﬀective communication*
