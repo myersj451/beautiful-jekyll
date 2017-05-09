@@ -11,6 +11,6 @@ subtitle: Previous Talks
 
 <a href="http://cdn.rawgit.com/myersj451/FS102-piracy_presentation-myersj451/master/piracy33.html#/"><img src="/img/piracy.jpg" alt=""></a>
 [Online Streaming](http://cdn.rawgit.com/myersj451/FS102-piracy_presentation-myersj451/master/piracy33.html#/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ethicality of digital piracy and a potential solution 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ethicality of digital music piracy and a potential solution 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FS 102 Spring 2017**        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*April 14, 2017*
