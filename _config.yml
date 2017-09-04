@@ -31,7 +31,7 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "quote.png"
 
-# title-img: /path/to/image
+ title-img: /img/148705-essential-collection.png 
 
 # --- Footer options --- #
 
